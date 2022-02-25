@@ -1,0 +1,5 @@
+.navbar{ background-color: brown;}
+.navbar li{
+    display: inline-block;
+    padding-inline-start: 10px;
+}
