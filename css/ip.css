@@ -1,5 +1,10 @@
 .navbar{ background-color: brown;}
 .navbar li{
     display: inline-block;
-    padding-inline-start: 10px;
+    padding-inline-start: 40px;
+}
+
+h1{
+    color: brown;
+    text-align: center;
 }
