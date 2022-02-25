@@ -1,10 +1,10 @@
-.navbar{ background-color: brown;}
+.navbar{ background-color: whitesmoke;}
 .navbar li{
     display: inline-block;
     padding-inline-start: 40px;
 }
 
 h1{
-    color: brown;
+    color: black;
     text-align: center;
 }
