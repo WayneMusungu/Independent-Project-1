@@ -9,8 +9,9 @@ h1{
     text-align: center;
 }
 
-img {
-    align-self: center;
+h2{
+    color: darkslategrey;
+    text-align:left
 }
 
 @media screen and (min-width: 480px) and (max-width: 767px) {
