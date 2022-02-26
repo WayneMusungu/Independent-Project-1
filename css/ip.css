@@ -32,6 +32,14 @@ h3{
   }
 }
 
+.important{
+    color: darkgreen;
+}
+
+.unimportant{
+    color:deeppink;
+}
+
 .center {
     display: block;
     margin-left: auto;
