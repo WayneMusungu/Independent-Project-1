@@ -32,14 +32,6 @@ h3{
   }
 }
 
-.test-box {
-    border: 2px solid black;
-    padding: 6px;
-    margin: 20px;
-    background-color:darkgrey;
-  }
-    
-
 .important{
     color: darkgreen;
 }
