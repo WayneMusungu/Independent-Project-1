@@ -1,4 +1,4 @@
-.navbar{ background-color: whitesmoke;}
+.navbar{ background-color:black;}
 .navbar li{
     display: inline-block;
     padding-inline-start: 40px;
@@ -7,4 +7,8 @@
 h1{
     color: black;
     text-align: center;
+}
+
+.background{
+    background-color:aquamarine;
 }
